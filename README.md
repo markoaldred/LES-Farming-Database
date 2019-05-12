@@ -12,7 +12,7 @@ Promote evidence based nutrition
 Growing enough food to meet the requirements of an evidence based whole food plant based diet
 
 ## Database & Software Usage
-Develop easy to follow planting, maintenance and harvesting plans to meet 100% of your food intake.
+Develop easy to follow planting, maintenance and harvesting plans to meet 100% of your food intake.<br />
 Determine how much and what food is required to grow 100% of your dietry intake for a plant based diet.
 Determine how much land is required to produce enough food to meet the needs of an evidence based whole food plant based diet
 Scrap the internet for recipes that match the food that will be produced in your backyard
