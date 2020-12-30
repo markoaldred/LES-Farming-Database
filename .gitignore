@@ -1,0 +1,4 @@
+venv
+*pcyc
+.env
+.DS_Store
